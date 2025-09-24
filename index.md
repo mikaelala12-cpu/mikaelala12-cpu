@@ -1,19 +1,19 @@
-## Portfolio
+## Spatial Portfolio
 
 ---
 
-### Category Name 1 
+### ArcGIS and Python Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ArcGIS Kriging Use](/sample_page)
+<img src="images/krigingmap.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ArcGIS Map of Population](/pdf/sample_presentation.pdf)
+<img src="images/question8.jpg?raw=true"/>
+
+---
+[Python List of Functions](http://example.com/)
+<img src="images/functions.jpg?raw=true"/>
 
 ---
 
