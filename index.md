@@ -13,7 +13,7 @@
 
 ---
 [Python List of Functions](http://example.com/)
-<img src="images/functions.jpg?raw=true"/>
+<img src="images/functions.png?raw=true"/>
 
 ---
 
