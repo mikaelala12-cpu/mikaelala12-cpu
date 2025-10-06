@@ -27,7 +27,7 @@
 
 - [Mesonet Station Clusters in Tx](https://arcg.is/qC48n)
 
-- 
+  
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
