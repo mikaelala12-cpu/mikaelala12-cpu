@@ -25,7 +25,7 @@
 
 ### GIS Online Map
 
-- https://arcg.is/qC48n
+- [Mesonet Station Clusters in Tx](https://arcg.is/qC48n)
 
 - 
 ---
