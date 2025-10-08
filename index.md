@@ -29,8 +29,7 @@
 
 ### Google Earth Engine
 
-- [Landsat 5 v Landsat 8](https://ee-mikaelala12.projects.earthengine.app/)
-- 
+- [Mikaela's App](https://ee-mikaelala12.projects.earthengine.app/)
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
